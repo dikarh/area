@@ -1,0 +1,23 @@
+{
+	"resultado": {
+		 "data": [ {
+		"active":1,
+		"description": "DIRECCION",
+		"areaId": 1,
+		"sector": 1},
+		{
+		"active":1,
+		"description": "SISTEMAS",
+		"areaId": 2,
+		"sector": 1},
+		{
+		"active":1,
+		"description": "MERCADOTECNIA",
+		"areaId": 3,
+		"sector": 1}
+
+	],
+
+ 	"codeHttpStatus" : 200
+	}
+}
